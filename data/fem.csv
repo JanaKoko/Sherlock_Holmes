@@ -1,0 +1,116 @@
+Source,Type,Target,Weight
+fem!Ватсон,Undirected,fem!Лестрейд,1
+fem!Ватсон,Undirected,fem!Майкрофт Холмс,1
+fem!Ватсон,Undirected,fem!Мориарти,1
+fem!Ватсон,Undirected,fem!Холмс,9
+fem!Ватсон,Undirected,Грегори Лестрейд,2
+fem!Ватсон,Undirected,Джон Ватсон,12
+fem!Ватсон,Undirected,Майкрофт Холмс,1
+fem!Ватсон,Undirected,Молли Хупер,1
+fem!Ватсон,Undirected,Мориарти,2
+fem!Ватсон,Undirected,Шерлок Холмс,11
+fem!Ватсон,Undirected,Эврус Холмс,1
+fem!Лестрейд,Undirected,fem!Майкрофт Холмс,4
+fem!Лестрейд,Undirected,fem!Холмс,1
+fem!Лестрейд,Undirected,Грегори Лестрейд,2
+fem!Лестрейд,Undirected,Майкрофт Холмс,2
+fem!Лестрейд,Undirected,Молли Хупер,1
+fem!Лестрейд,Undirected,Шерлок Холмс,1
+fem!Лестрейд,Undirected,Эврус Холмс,1
+fem!Майкрофт Холмс,Undirected,fem!Холмс,1
+fem!Майкрофт Холмс,Undirected,Грегори Лестрейд,2
+fem!Майкрофт Холмс,Undirected,Майкрофт Холмс,2
+fem!Майкрофт Холмс,Undirected,Молли Хупер,1
+fem!Майкрофт Холмс,Undirected,Шерлок Холмс,1
+fem!Майкрофт Холмс,Undirected,Эврус Холмс,1
+fem!Мориарти,Undirected,fem!Себастьян Моран,1
+fem!Мориарти,Undirected,fem!Холмс,1
+fem!Мориарти,Undirected,Алана Моран,1
+fem!Мориарти,Undirected,Джон Ватсон,2
+fem!Мориарти,Undirected,Мориарти,4
+fem!Мориарти,Undirected,Себастьян Моран,2
+fem!Мориарти,Undirected,Шерлок Холмс,1
+fem!Себастьян Моран,Undirected,Мориарти,1
+fem!Себастьян Моран,Undirected,Себастьян Моран,1
+fem!Холмс,Undirected,Грегори Лестрейд,1
+fem!Холмс,Undirected,Джон Ватсон,8
+fem!Холмс,Undirected,Ирэн Адлер,1
+fem!Холмс,Undirected,Майкрофт Холмс,1
+fem!Холмс,Undirected,Молли Хупер,1
+fem!Холмс,Undirected,Мориарти,2
+fem!Холмс,Undirected,Шерлок Холмс,10
+fem!Холмс,Undirected,Эврус Холмс,1
+Алана Моран,Undirected,Мориарти,1
+Алана Моран,Undirected,Себастьян Моран,1
+Антея,Undirected,Джон Ватсон,3
+Антея,Undirected,Ирэн Адлер,1
+Антея,Undirected,Молли Хупер,7
+Антея,Undirected,Сара Сойер,1
+Антея,Undirected,Шерлок Холмс,2
+Гарри,Undirected,Гарриет Ватсон,1
+Гарри,Undirected,Клара,1
+Гарриет Ватсон,Undirected,Джон Ватсон,2
+Гарриет Ватсон,Undirected,Ирэн Адлер,1
+Гарриет Ватсон,Undirected,Клара,1
+Гарриет Ватсон,Undirected,Молли Хупер,1
+Гарриет Ватсон,Undirected,Мэри Элизабет Морстен,1
+Гарриет Ватсон,Undirected,Шерлок Холмс,1
+Грегори Лестрейд,Undirected,Джон Ватсон,4
+Грегори Лестрейд,Undirected,Майкрофт Холмс,6
+Грегори Лестрейд,Undirected,Молли Хупер,2
+Грегори Лестрейд,Undirected,Мориарти,1
+Грегори Лестрейд,Undirected,Салли Донован,1
+Грегори Лестрейд,Undirected,Шерлок Холмс,6
+Грегори Лестрейд,Undirected,Эврус Холмс,1
+Джейн,Undirected,Мориарти,1
+Джейн,Undirected,Шерлок Холмс,1
+Джон Ватсон,Undirected,Ирэн Адлер,1
+Джон Ватсон,Undirected,Майкрофт Холмс,5
+Джон Ватсон,Undirected,Миссис Холмс,1
+Джон Ватсон,Undirected,Молли Хупер,6
+Джон Ватсон,Undirected,Мориарти,5
+Джон Ватсон,Undirected,Мэри Элизабет Морстен,1
+Джон Ватсон,Undirected,ОМП,1
+Джон Ватсон,Undirected,Розамунд Мэри,1
+Джон Ватсон,Undirected,Рози,1
+Джон Ватсон,Undirected,Сара Сойер,1
+Джон Ватсон,Undirected,Шерлок Холмс,31
+Джон Ватсон,Undirected,Эврус Холмс,2
+Ирэн Адлер,Undirected,Майкрофт Холмс,1
+Ирэн Адлер,Undirected,Молли Хупер,24
+Ирэн Адлер,Undirected,Мэри Элизабет Морстен,4
+Ирэн Адлер,Undirected,ОЖП,1
+Ирэн Адлер,Undirected,Розамунд Мэри,2
+Ирэн Адлер,Undirected,Шерлок Холмс,6
+Ирэн Адлер,Undirected,Эврус Холмс,2
+Майкрофт Холмс,Undirected,Миссис Холмс,1
+Майкрофт Холмс,Undirected,Молли Хупер,2
+Майкрофт Холмс,Undirected,Мориарти,1
+Майкрофт Холмс,Undirected,ОМП,1
+Майкрофт Холмс,Undirected,Шерлок Холмс,6
+Майкрофт Холмс,Undirected,Эврус Холмс,1
+Миссис Холмс,Undirected,Молли Хупер,1
+Миссис Холмс,Undirected,ОМП,1
+Миссис Холмс,Undirected,Шерлок Холмс,1
+Миссис Холмс,Undirected,Эврус Холмс,1
+Молли Хупер,Undirected,Мориарти,1
+Молли Хупер,Undirected,Мэри Элизабет Морстен,2
+Молли Хупер,Undirected,ОМП,1
+Молли Хупер,Undirected,Розамунд Мэри,2
+Молли Хупер,Undirected,Салли Донован,1
+Молли Хупер,Undirected,Шерлок Холмс,10
+Молли Хупер,Undirected,Эврус Холмс,8
+Молли Хупер,Undirected,Эмилия Мориарти,1
+Мориарти,Undirected,Себастьян Моран,3
+Мориарти,Undirected,Шерлок Холмс,6
+Мориарти,Undirected,Эврус Холмс,1
+Мэри Элизабет Морстен,Undirected,Розамунд Мэри,4
+ОЖП,Undirected,Эврус Холмс,1
+ОМП,Undirected,Шерлок Холмс,1
+ОМП,Undirected,Эврус Холмс,1
+Розамунд Мэри,Undirected,Рози,1
+Розамунд Мэри,Undirected,Шерлок Холмс,1
+Рози,Undirected,Шерлок Холмс,1
+Салли Донован,Undirected,Шерлок Холмс,1
+Сара Сойер,Undirected,Шерлок Холмс,1
+Шерлок Холмс,Undirected,Эврус Холмс,3
